@@ -22,7 +22,7 @@ nrow(inst)
 ## hint: readr::write_csv() or write.table()
 ## idea: try using here::here() to create the file path
 
-readr::write_csv(inst,here::here("data","installed-packages.csv"))
+#readr::write_csv(inst,here::here("data","installed-packages.csv"))
 
 
 ## YES overwrite the file that is there now (or delete it first)
