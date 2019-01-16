@@ -1,7 +1,3 @@
-#' ---
-#' output: github_document
-#' ---
-
 ## remember to restart R here!
 library(tidyverse)
 library(here)
